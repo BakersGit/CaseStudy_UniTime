@@ -33,7 +33,7 @@ Die Idee für eine Organisations-App für Mehrpersonen-Haushalte & Mehr
 
 ## Style-Guide
 
-<img src="./img/09.jpg" width="650">
+<img src="./img/Style Guide.jpg" width="650">
 
 ## Wireframe Evolution 1
 
