@@ -1,5 +1,10 @@
 # CaseStudy_UniTime
 
+![Screenshot UniTime App](img/1.jpg)
+
+
+# CaseStudy_UniTime
+
 </p>
 
 <p>
