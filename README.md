@@ -1,5 +1,5 @@
 # UniTime
-Die Idee für eine Organisations-App für Mehrpersonenhaushalte
+Die Idee für eine Organisations-App für Mehrpersonen-Haushalte & Mehr
 
 <img src="./img/01.jpg" width="650">
 
