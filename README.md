@@ -6,7 +6,7 @@
 <img src="./img/06.jpg" width="800">
 <img src="./img/07.jpg" width="800">
 <img src="./img/08.jpg" width="800">
-<img src="./img/09.jpg" width="800">
+<img src="./img/09.jpg">
 <img src="./img/10.jpg" width="800">
 <img src="./img/11.jpg" width="800">
 <img src="./img/12.jpg" width="800">
