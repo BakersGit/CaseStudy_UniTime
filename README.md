@@ -1,6 +1,10 @@
 # UniTime
 Die Idee für eine Organisations-App für Mehrpersonen-Haushalte & Mehr
 
+
+Klickbarer Prototyp durch das Deisgn-Tool Figma ist unter folgendem Link möglich:
+https://www.figma.com/proto/IbCqX0yoeTLee15sVcglPW/Paar?page-id=206%3A27542&node-id=3069-11286&viewport=319%2C575%2C0.25&t=OQ6KjtUSTjEF6Dbt-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3069%3A11286&show-proto-sidebar=1
+
 <img src="./img/01.jpg" width="650">
 
 ## Einleitung
