@@ -3,6 +3,6 @@
 </p>
 
 <p>
-<img src="./img/1.JPG" width="1000">
+<img src="./img/1.jpg" width="1000">
   
 </p>
