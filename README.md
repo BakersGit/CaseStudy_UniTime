@@ -62,16 +62,25 @@ https://www.figma.com/proto/IbCqX0yoeTLee15sVcglPW/Paar?page-id=206%3A27542&node
 
 ## User-Story 1
 
+Zum navigieren der User Story 1 bitte folgenden Link via Figma nutzen. Für eine Vollständige Navigation des Prototypen bitte den Link Zeile 6 nutzen.
+https://www.figma.com/proto/IbCqX0yoeTLee15sVcglPW/Paar?page-id=206%3A27542&node-id=3179-17851&viewport=319%2C575%2C0.25&t=OQ6KjtUSTjEF6Dbt-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3179%3A17851&show-proto-sidebar=1
+
 <img src="./img/16.jpg" width="650">
 <img src="./img/17.jpg" width="650">
 <img src="./img/18.jpg" width="650">
 
 ## User-Story 2
 
+Zum navigieren der User Story 2 bitte folgenden Link via Figma nutzen. Für eine Vollständige Navigation des Prototypen bitte den Link Zeile 6 nutzen.
+https://www.figma.com/proto/IbCqX0yoeTLee15sVcglPW/Paar?page-id=206%3A27542&node-id=3179-22549&viewport=319%2C575%2C0.25&t=OQ6KjtUSTjEF6Dbt-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3179%3A22549&show-proto-sidebar=1
+
 <img src="./img/19.jpg" width="650">
 <img src="./img/20.jpg" width="650">
 
 ## User-Story 3
+
+Zum navigieren der User Story 3 bitte folgenden Link via Figma nutzen. Für eine Vollständige Navigation des Prototypen bitte den Link Zeile 6 nutzen.
+https://www.figma.com/proto/IbCqX0yoeTLee15sVcglPW/Paar?page-id=206%3A27542&node-id=3179-19959&viewport=319%2C575%2C0.25&t=OQ6KjtUSTjEF6Dbt-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3179%3A19959&show-proto-sidebar=1
 
 <img src="./img/21.jpg" width="650">
 <img src="./img/22.jpg" width="650">
